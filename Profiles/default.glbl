@@ -36,17 +36,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>3</initValue>
+      <initValue>1</initValue>
       <name>shortDelay</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>5</initValue>
+      <initValue>3</initValue>
       <name>medDelay</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>10</initValue>
+      <initValue>5</initValue>
       <name>longDelay</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -56,7 +56,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'C:\\Users\\AVOWS\\Downloads\\Flyer'</initValue>
+      <initValue>'C:\\Users\\AVOWS\\OneDrive\\Documents\\GitHub\\Jubelio-Staging\\1280px-Shocked_(2790652609)'</initValue>
       <name>fileUploadPath</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
