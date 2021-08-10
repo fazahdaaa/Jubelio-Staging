@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "88A63FDB13D0DC371ED7FBD4A38052F1",
+  "keywordClasses": [
+    {
+      "name": "newPackage.uploadFile",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
